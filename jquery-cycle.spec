@@ -2,7 +2,7 @@
 Summary:	jQuery Cycle Plugin
 Name:		jquery-%{plugin}
 Version:	3.0.3
-Release:	1
+Release:	2
 License:	MIT/GPL
 Group:		Applications/WWW
 Source0:	https://github.com/malsup/cycle/archive/ac38c7b6/%{plugin}-%{version}.tar.gz
